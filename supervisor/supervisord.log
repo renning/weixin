@@ -1,0 +1,1127 @@
+2015-04-10 03:53:40,508 CRIT Supervisor running as root (no user in config file)
+2015-04-10 03:53:40,508 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2015-04-10 03:53:40,517 INFO RPC interface 'supervisor' initialized
+2015-04-10 03:53:40,517 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2015-04-10 03:53:40,518 INFO RPC interface 'supervisor' initialized
+2015-04-10 03:53:40,518 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-04-10 03:53:40,523 INFO daemonizing the supervisord process
+2015-04-10 03:53:40,524 INFO supervisord started with pid 769
+2015-04-10 03:59:17,757 CRIT Supervisor running as root (no user in config file)
+2015-04-10 03:59:17,758 WARN Included extra file "/etc/supervisor/conf.d/getpage.conf" during parsing
+2015-04-10 03:59:17,758 WARN Included extra file "/etc/supervisor/conf.d/putrssinqueue.conf" during parsing
+2015-04-10 03:59:17,758 WARN Included extra file "/etc/supervisor/conf.d/crawl.conf" during parsing
+2015-04-10 03:59:17,768 INFO RPC interface 'supervisor' initialized
+2015-04-10 03:59:17,768 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2015-04-10 03:59:18,069 INFO RPC interface 'supervisor' initialized
+2015-04-10 03:59:18,069 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-04-10 03:59:18,075 INFO daemonizing the supervisord process
+2015-04-10 03:59:18,076 INFO supervisord started with pid 939
+2015-04-10 03:59:19,082 INFO spawned: 'putrssinqueue' with pid 940
+2015-04-10 03:59:19,091 INFO spawned: 'getpage' with pid 941
+2015-04-10 03:59:19,109 INFO spawned: 'crawl-8800' with pid 942
+2015-04-10 03:59:19,135 INFO spawned: 'crawl-8801' with pid 943
+2015-04-10 03:59:19,153 INFO spawned: 'crawl-8802' with pid 944
+2015-04-10 03:59:19,191 INFO spawned: 'crawl-8803' with pid 945
+2015-04-10 03:59:19,376 INFO exited: putrssinqueue (exit status 1; not expected)
+2015-04-10 03:59:19,718 INFO exited: getpage (exit status 1; not expected)
+2015-04-10 03:59:19,718 INFO exited: crawl-8800 (exit status 1; not expected)
+2015-04-10 03:59:19,731 INFO exited: crawl-8801 (exit status 1; not expected)
+2015-04-10 03:59:19,751 INFO exited: crawl-8802 (exit status 1; not expected)
+2015-04-10 03:59:19,757 INFO exited: crawl-8803 (exit status 1; not expected)
+2015-04-10 03:59:20,762 INFO spawned: 'putrssinqueue' with pid 946
+2015-04-10 03:59:20,771 INFO spawned: 'getpage' with pid 947
+2015-04-10 03:59:20,790 INFO spawned: 'crawl-8800' with pid 948
+2015-04-10 03:59:20,828 INFO spawned: 'crawl-8801' with pid 949
+2015-04-10 03:59:20,862 INFO spawned: 'crawl-8802' with pid 950
+2015-04-10 03:59:20,883 INFO spawned: 'crawl-8803' with pid 951
+2015-04-10 03:59:21,042 INFO exited: putrssinqueue (exit status 1; not expected)
+2015-04-10 03:59:21,347 INFO exited: getpage (exit status 1; not expected)
+2015-04-10 03:59:21,375 INFO exited: crawl-8800 (exit status 1; not expected)
+2015-04-10 03:59:21,381 INFO exited: crawl-8801 (exit status 1; not expected)
+2015-04-10 03:59:21,387 INFO exited: crawl-8802 (exit status 1; not expected)
+2015-04-10 03:59:21,395 INFO exited: crawl-8803 (exit status 1; not expected)
+2015-04-10 03:59:23,404 INFO spawned: 'putrssinqueue' with pid 956
+2015-04-10 03:59:23,416 INFO spawned: 'getpage' with pid 957
+2015-04-10 03:59:23,435 INFO spawned: 'crawl-8800' with pid 958
+2015-04-10 03:59:23,450 INFO spawned: 'crawl-8801' with pid 959
+2015-04-10 03:59:23,483 INFO spawned: 'crawl-8802' with pid 960
+2015-04-10 03:59:23,528 INFO spawned: 'crawl-8803' with pid 961
+2015-04-10 03:59:23,668 INFO exited: putrssinqueue (exit status 1; not expected)
+2015-04-10 03:59:24,011 INFO exited: getpage (exit status 1; not expected)
+2015-04-10 03:59:24,015 INFO exited: crawl-8800 (exit status 1; not expected)
+2015-04-10 03:59:24,055 INFO exited: crawl-8801 (exit status 1; not expected)
+2015-04-10 03:59:24,067 INFO exited: crawl-8802 (exit status 1; not expected)
+2015-04-10 03:59:24,068 INFO exited: crawl-8803 (exit status 1; not expected)
+2015-04-10 03:59:26,793 INFO spawned: 'putrssinqueue' with pid 966
+2015-04-10 03:59:26,854 INFO exited: putrssinqueue (exit status 1; not expected)
+2015-04-10 03:59:27,856 INFO gave up: putrssinqueue entered FATAL state, too many start retries too quickly
+2015-04-10 03:59:27,860 INFO spawned: 'getpage' with pid 969
+2015-04-10 03:59:27,875 INFO spawned: 'crawl-8800' with pid 970
+2015-04-10 03:59:27,888 INFO spawned: 'crawl-8801' with pid 971
+2015-04-10 03:59:27,913 INFO spawned: 'crawl-8802' with pid 972
+2015-04-10 03:59:27,948 INFO spawned: 'crawl-8803' with pid 973
+2015-04-10 03:59:28,411 INFO exited: crawl-8800 (exit status 1; not expected)
+2015-04-10 03:59:28,415 INFO gave up: crawl-8800 entered FATAL state, too many start retries too quickly
+2015-04-10 03:59:28,416 INFO exited: getpage (exit status 1; not expected)
+2015-04-10 03:59:28,416 INFO gave up: getpage entered FATAL state, too many start retries too quickly
+2015-04-10 03:59:28,442 INFO exited: crawl-8801 (exit status 1; not expected)
+2015-04-10 03:59:28,453 INFO gave up: crawl-8801 entered FATAL state, too many start retries too quickly
+2015-04-10 03:59:28,454 INFO exited: crawl-8802 (exit status 1; not expected)
+2015-04-10 03:59:28,455 INFO gave up: crawl-8802 entered FATAL state, too many start retries too quickly
+2015-04-10 03:59:28,465 INFO exited: crawl-8803 (exit status 1; not expected)
+2015-04-10 03:59:29,466 INFO gave up: crawl-8803 entered FATAL state, too many start retries too quickly
+2015-04-10 14:37:11,007 INFO spawned: 'putrssinqueue' with pid 9860
+2015-04-10 14:37:12,185 INFO success: putrssinqueue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:27:27,372 INFO waiting for putrssinqueue to die
+2015-04-10 15:27:27,376 INFO stopped: putrssinqueue (terminated by SIGTERM)
+2015-04-10 15:27:27,393 CRIT Supervisor running as root (no user in config file)
+2015-04-10 15:27:27,393 WARN Included extra file "/etc/supervisor/conf.d/getpage.conf" during parsing
+2015-04-10 15:27:27,393 WARN Included extra file "/etc/supervisor/conf.d/putrssinqueue.conf" during parsing
+2015-04-10 15:27:27,393 WARN Included extra file "/etc/supervisor/conf.d/crawl.conf" during parsing
+2015-04-10 15:27:27,401 INFO RPC interface 'supervisor' initialized
+2015-04-10 15:27:27,401 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2015-04-10 15:27:27,402 INFO RPC interface 'supervisor' initialized
+2015-04-10 15:27:27,402 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-04-10 15:27:27,402 INFO supervisord started with pid 939
+2015-04-10 15:27:28,413 INFO spawned: 'putrssinqueue' with pid 18131
+2015-04-10 15:27:28,454 INFO spawned: 'getpage' with pid 18132
+2015-04-10 15:27:28,491 INFO spawned: 'crawl' with pid 18133
+2015-04-10 15:27:29,932 INFO success: putrssinqueue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:27:29,932 INFO success: getpage entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:27:29,932 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:27:30,404 INFO exited: crawl (exit status 1; not expected)
+2015-04-10 15:27:31,421 INFO spawned: 'crawl' with pid 18145
+2015-04-10 15:27:32,500 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:27:32,921 INFO exited: crawl (exit status 1; not expected)
+2015-04-10 15:27:33,941 INFO spawned: 'crawl' with pid 18166
+2015-04-10 15:27:34,943 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:27:35,734 INFO exited: crawl (exit status 1; not expected)
+2015-04-10 15:27:36,740 INFO spawned: 'crawl' with pid 18174
+2015-04-10 15:27:37,702 INFO exited: crawl (exit status 1; not expected)
+2015-04-10 15:27:38,713 INFO spawned: 'crawl' with pid 18181
+2015-04-10 15:27:39,524 INFO exited: crawl (exit status 1; not expected)
+2015-04-10 15:27:41,536 INFO spawned: 'crawl' with pid 18186
+2015-04-10 15:27:42,488 INFO exited: crawl (exit status 1; not expected)
+2015-04-10 15:27:45,504 INFO spawned: 'crawl' with pid 18215
+2015-04-10 15:27:46,513 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:27:46,513 INFO exited: crawl (exit status 1; not expected)
+2015-04-10 15:27:47,522 INFO spawned: 'crawl' with pid 18224
+2015-04-10 15:27:48,524 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:27:48,818 INFO exited: crawl (exit status 1; not expected)
+2015-04-10 15:27:49,830 INFO spawned: 'crawl' with pid 18229
+2015-04-10 15:27:50,842 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:27:51,287 INFO exited: crawl (exit status 1; not expected)
+2015-04-10 15:27:52,304 INFO spawned: 'crawl' with pid 18234
+2015-04-10 15:27:53,306 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:27:53,881 INFO exited: crawl (exit status 1; not expected)
+2015-04-10 15:27:54,887 INFO spawned: 'crawl' with pid 18257
+2015-04-10 15:27:55,901 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:27:56,437 INFO exited: crawl (exit status 1; not expected)
+2015-04-10 15:27:57,448 INFO spawned: 'crawl' with pid 18266
+2015-04-10 15:27:58,441 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:27:58,441 INFO exited: crawl (exit status 1; not expected)
+2015-04-10 15:27:58,990 INFO spawned: 'crawl' with pid 18271
+2015-04-10 15:27:59,948 INFO exited: crawl (exit status 1; not expected)
+2015-04-10 15:28:00,959 INFO spawned: 'crawl' with pid 18276
+2015-04-10 15:28:01,977 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:28:02,006 INFO stopped: crawl (exit status 1)
+2015-04-10 15:30:21,054 INFO waiting for putrssinqueue, getpage to die
+2015-04-10 15:30:21,064 INFO stopped: getpage (terminated by SIGTERM)
+2015-04-10 15:30:21,066 INFO stopped: putrssinqueue (terminated by SIGTERM)
+2015-04-10 15:30:21,076 CRIT Supervisor running as root (no user in config file)
+2015-04-10 15:30:21,076 WARN Included extra file "/etc/supervisor/conf.d/getpage.conf" during parsing
+2015-04-10 15:30:21,076 WARN Included extra file "/etc/supervisor/conf.d/putrssinqueue.conf" during parsing
+2015-04-10 15:30:21,076 WARN Included extra file "/etc/supervisor/conf.d/crawl.conf" during parsing
+2015-04-10 15:30:21,077 INFO RPC interface 'supervisor' initialized
+2015-04-10 15:30:21,077 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2015-04-10 15:30:21,077 INFO RPC interface 'supervisor' initialized
+2015-04-10 15:30:21,080 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-04-10 15:30:21,081 INFO supervisord started with pid 939
+2015-04-10 15:30:22,087 INFO spawned: 'putrssinqueue' with pid 18718
+2015-04-10 15:30:22,106 INFO spawned: 'getpage' with pid 18719
+2015-04-10 15:30:22,133 INFO spawned: 'crawl' with pid 18720
+2015-04-10 15:30:23,295 INFO success: putrssinqueue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:30:23,295 INFO success: getpage entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-10 15:30:23,295 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:56:16,373 INFO stopped: crawl (terminated by SIGTERM)
+2015-04-11 03:56:17,388 INFO spawned: 'crawl' with pid 22685
+2015-04-11 03:56:18,398 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:56:18,690 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:19,701 INFO spawned: 'crawl' with pid 22690
+2015-04-11 03:56:20,703 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:56:20,839 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:21,852 INFO spawned: 'crawl' with pid 22699
+2015-04-11 03:56:22,857 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:56:23,510 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:24,533 INFO spawned: 'crawl' with pid 22725
+2015-04-11 03:56:25,535 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:56:26,350 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:27,365 INFO spawned: 'crawl' with pid 22738
+2015-04-11 03:56:28,374 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:56:28,703 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:29,709 INFO spawned: 'crawl' with pid 22747
+2015-04-11 03:56:30,722 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:56:30,889 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:31,910 INFO spawned: 'crawl' with pid 22755
+2015-04-11 03:56:32,912 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:56:33,199 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:33,621 INFO spawned: 'crawl' with pid 22772
+2015-04-11 03:56:33,646 INFO stopped: getpage (terminated by SIGTERM)
+2015-04-11 03:56:33,665 INFO spawned: 'getpage' with pid 22773
+2015-04-11 03:56:34,676 INFO success: getpage entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:56:34,676 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:56:34,776 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:35,787 INFO spawned: 'crawl' with pid 22784
+2015-04-11 03:56:36,700 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:37,706 INFO spawned: 'crawl' with pid 22797
+2015-04-11 03:56:38,491 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:40,499 INFO spawned: 'crawl' with pid 22813
+2015-04-11 03:56:41,263 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:44,271 INFO spawned: 'crawl' with pid 22858
+2015-04-11 03:56:45,296 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:56:45,299 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:46,305 INFO spawned: 'crawl' with pid 22868
+2015-04-11 03:56:47,318 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:56:47,490 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:48,500 INFO spawned: 'crawl' with pid 22887
+2015-04-11 03:56:49,023 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:50,036 INFO spawned: 'crawl' with pid 22892
+2015-04-11 03:56:50,459 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:52,465 INFO spawned: 'crawl' with pid 22901
+2015-04-11 03:56:53,229 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:56,238 INFO spawned: 'crawl' with pid 22926
+2015-04-11 03:56:56,600 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:56:57,602 INFO gave up: crawl entered FATAL state, too many start retries too quickly
+2015-04-11 03:57:01,790 INFO spawned: 'crawl' with pid 22938
+2015-04-11 03:57:02,184 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:57:03,191 INFO spawned: 'crawl' with pid 22943
+2015-04-11 03:57:03,764 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:57:05,774 INFO spawned: 'crawl' with pid 22972
+2015-04-11 03:57:06,589 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:57:10,594 INFO spawned: 'crawl' with pid 23001
+2015-04-11 03:57:11,493 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:57:12,494 INFO gave up: crawl entered FATAL state, too many start retries too quickly
+2015-04-11 03:57:56,652 INFO spawned: 'crawl' with pid 23314
+2015-04-11 03:57:57,665 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:57:57,860 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:57:58,866 INFO spawned: 'crawl' with pid 23322
+2015-04-11 03:57:59,878 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:00,060 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:01,073 INFO spawned: 'crawl' with pid 23329
+2015-04-11 03:58:02,079 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:02,392 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:03,399 INFO spawned: 'crawl' with pid 23340
+2015-04-11 03:58:04,160 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:05,179 INFO spawned: 'crawl' with pid 23369
+2015-04-11 03:58:06,182 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:06,873 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:07,879 INFO spawned: 'crawl' with pid 23375
+2015-04-11 03:58:09,009 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:09,084 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:10,097 INFO spawned: 'crawl' with pid 23386
+2015-04-11 03:58:11,074 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:12,086 INFO spawned: 'crawl' with pid 23411
+2015-04-11 03:58:12,887 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:14,901 INFO spawned: 'crawl' with pid 23445
+2015-04-11 03:58:15,918 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:16,543 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:17,550 INFO spawned: 'crawl' with pid 23463
+2015-04-11 03:58:18,510 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:19,526 INFO spawned: 'crawl' with pid 23478
+2015-04-11 03:58:20,528 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:20,766 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:21,772 INFO spawned: 'crawl' with pid 23485
+2015-04-11 03:58:22,781 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:22,960 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:23,974 INFO spawned: 'crawl' with pid 23493
+2015-04-11 03:58:24,976 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:25,429 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:26,436 INFO spawned: 'crawl' with pid 23518
+2015-04-11 03:58:27,449 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:28,029 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:29,036 INFO spawned: 'crawl' with pid 23528
+2015-04-11 03:58:30,049 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:30,280 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:31,306 INFO spawned: 'crawl' with pid 23542
+2015-04-11 03:58:32,308 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:32,550 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:33,559 INFO spawned: 'crawl' with pid 23549
+2015-04-11 03:58:34,564 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:34,747 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:35,766 INFO spawned: 'crawl' with pid 23574
+2015-04-11 03:58:36,769 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:37,543 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:38,549 INFO spawned: 'crawl' with pid 23580
+2015-04-11 03:58:39,663 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:39,746 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:40,752 INFO spawned: 'crawl' with pid 23594
+2015-04-11 03:58:41,709 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:42,723 INFO spawned: 'crawl' with pid 23622
+2015-04-11 03:58:43,560 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:45,573 INFO spawned: 'crawl' with pid 23648
+2015-04-11 03:58:46,575 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:46,986 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:47,993 INFO spawned: 'crawl' with pid 23663
+2015-04-11 03:58:48,468 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:49,477 INFO spawned: 'crawl' with pid 23674
+2015-04-11 03:58:49,976 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:51,988 INFO spawned: 'crawl' with pid 23680
+2015-04-11 03:58:52,386 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:58:55,395 INFO spawned: 'crawl' with pid 23695
+2015-04-11 03:58:57,175 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:58:58,428 INFO stopped: crawl (terminated by SIGTERM)
+2015-04-11 03:58:59,444 INFO spawned: 'crawl' with pid 23710
+2015-04-11 03:58:59,811 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:00,817 INFO spawned: 'crawl' with pid 23715
+2015-04-11 03:59:01,163 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:03,171 INFO spawned: 'crawl' with pid 23724
+2015-04-11 03:59:03,549 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:06,558 INFO spawned: 'crawl' with pid 23753
+2015-04-11 03:59:07,559 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:08,206 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:09,124 INFO spawned: 'crawl' with pid 23763
+2015-04-11 03:59:10,203 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:10,303 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:11,314 INFO spawned: 'crawl' with pid 23783
+2015-04-11 03:59:12,160 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:13,170 INFO spawned: 'crawl' with pid 23789
+2015-04-11 03:59:14,043 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:16,055 INFO spawned: 'crawl' with pid 23821
+2015-04-11 03:59:17,056 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:17,569 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:18,585 INFO spawned: 'crawl' with pid 23835
+2015-04-11 03:59:19,524 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:20,537 INFO spawned: 'crawl' with pid 23847
+2015-04-11 03:59:21,539 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:21,763 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:22,776 INFO spawned: 'crawl' with pid 23852
+2015-04-11 03:59:23,749 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:24,766 INFO spawned: 'crawl' with pid 23857
+2015-04-11 03:59:25,768 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:26,204 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:27,211 INFO spawned: 'crawl' with pid 23884
+2015-04-11 03:59:28,213 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:28,679 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:29,688 INFO spawned: 'crawl' with pid 23894
+2015-04-11 03:59:30,689 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:30,976 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:31,982 INFO spawned: 'crawl' with pid 23899
+2015-04-11 03:59:32,991 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:33,343 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:34,356 INFO spawned: 'crawl' with pid 23931
+2015-04-11 03:59:35,242 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:36,251 INFO spawned: 'crawl' with pid 23970
+2015-04-11 03:59:37,253 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:37,893 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:38,903 INFO spawned: 'crawl' with pid 23981
+2015-04-11 03:59:39,833 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:40,839 INFO spawned: 'crawl' with pid 23995
+2015-04-11 03:59:41,803 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:43,816 INFO spawned: 'crawl' with pid 24020
+2015-04-11 03:59:44,599 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:47,614 INFO spawned: 'crawl' with pid 24055
+2015-04-11 03:59:48,616 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:48,921 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:49,933 INFO spawned: 'crawl' with pid 24081
+2015-04-11 03:59:50,935 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:51,206 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:52,212 INFO spawned: 'crawl' with pid 24087
+2015-04-11 03:59:53,225 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:53,389 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:54,395 INFO spawned: 'crawl' with pid 24095
+2015-04-11 03:59:55,405 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:55,626 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:56,646 INFO spawned: 'crawl' with pid 24119
+2015-04-11 03:59:57,649 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 03:59:58,369 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 03:59:59,381 INFO spawned: 'crawl' with pid 24131
+2015-04-11 04:00:00,388 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:00,726 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:01,744 INFO spawned: 'crawl' with pid 24138
+2015-04-11 04:00:02,746 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:03,726 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:04,743 INFO spawned: 'crawl' with pid 24145
+2015-04-11 04:00:05,745 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:06,056 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:07,076 INFO spawned: 'crawl' with pid 24172
+2015-04-11 04:00:08,078 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:08,439 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:09,415 INFO spawned: 'crawl' with pid 24187
+2015-04-11 04:00:10,435 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:10,440 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:11,452 INFO spawned: 'crawl' with pid 24200
+2015-04-11 04:00:12,531 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:12,531 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:13,541 INFO spawned: 'crawl' with pid 24222
+2015-04-11 04:00:14,427 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:15,440 INFO spawned: 'crawl' with pid 24233
+2015-04-11 04:00:16,343 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:18,355 INFO spawned: 'crawl' with pid 24258
+2015-04-11 04:00:19,369 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:19,703 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:20,716 INFO spawned: 'crawl' with pid 24279
+2015-04-11 04:00:21,725 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:22,236 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:23,253 INFO spawned: 'crawl' with pid 24288
+2015-04-11 04:00:24,255 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:24,490 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:25,504 INFO spawned: 'crawl' with pid 24293
+2015-04-11 04:00:26,506 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:26,779 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:27,799 INFO spawned: 'crawl' with pid 24314
+2015-04-11 04:00:28,802 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:29,597 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:30,611 INFO spawned: 'crawl' with pid 24326
+2015-04-11 04:00:31,613 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:32,000 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:33,016 INFO spawned: 'crawl' with pid 24333
+2015-04-11 04:00:34,019 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:34,453 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:35,470 INFO spawned: 'crawl' with pid 24340
+2015-04-11 04:00:36,472 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:36,770 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:37,782 INFO spawned: 'crawl' with pid 24367
+2015-04-11 04:00:38,794 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:39,063 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:39,550 INFO spawned: 'crawl' with pid 24375
+2015-04-11 04:00:40,452 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:41,461 INFO spawned: 'crawl' with pid 24383
+2015-04-11 04:00:42,357 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:44,368 INFO spawned: 'crawl' with pid 24449
+2015-04-11 04:00:45,188 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:48,210 INFO spawned: 'crawl' with pid 24519
+2015-04-11 04:00:49,212 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:49,909 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:50,930 INFO spawned: 'crawl' with pid 24528
+2015-04-11 04:00:51,932 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:52,243 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:53,260 INFO spawned: 'crawl' with pid 24538
+2015-04-11 04:00:54,262 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:54,443 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:55,449 INFO spawned: 'crawl' with pid 24552
+2015-04-11 04:00:56,462 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:56,633 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:00:57,646 INFO spawned: 'crawl' with pid 24575
+2015-04-11 04:00:58,648 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:00:59,353 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:00,370 INFO spawned: 'crawl' with pid 24585
+2015-04-11 04:01:01,372 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:01,834 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:02,844 INFO spawned: 'crawl' with pid 24594
+2015-04-11 04:01:03,846 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:04,253 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:05,267 INFO spawned: 'crawl' with pid 24602
+2015-04-11 04:01:06,269 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:06,533 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:07,550 INFO spawned: 'crawl' with pid 24612
+2015-04-11 04:01:08,552 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:09,271 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:09,671 INFO spawned: 'crawl' with pid 24633
+2015-04-11 04:01:10,696 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:10,697 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:11,707 INFO spawned: 'crawl' with pid 24650
+2015-04-11 04:01:12,692 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:13,699 INFO spawned: 'crawl' with pid 24661
+2015-04-11 04:01:14,171 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:16,178 INFO spawned: 'crawl' with pid 24666
+2015-04-11 04:01:16,564 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:19,572 INFO spawned: 'crawl' with pid 24696
+2015-04-11 04:01:20,592 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:21,589 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:22,595 INFO spawned: 'crawl' with pid 24716
+2015-04-11 04:01:23,607 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:24,196 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:25,210 INFO spawned: 'crawl' with pid 24724
+2015-04-11 04:01:26,212 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:26,703 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:27,720 INFO spawned: 'crawl' with pid 24732
+2015-04-11 04:01:28,722 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:29,266 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:30,283 INFO spawned: 'crawl' with pid 24752
+2015-04-11 04:01:31,285 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:31,720 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:32,730 INFO spawned: 'crawl' with pid 24760
+2015-04-11 04:01:33,732 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:34,073 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:35,090 INFO spawned: 'crawl' with pid 24770
+2015-04-11 04:01:36,092 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:36,550 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:37,560 INFO spawned: 'crawl' with pid 24790
+2015-04-11 04:01:38,562 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:38,969 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:39,836 INFO spawned: 'crawl' with pid 24829
+2015-04-11 04:01:40,704 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:41,716 INFO spawned: 'crawl' with pid 24844
+2015-04-11 04:01:42,666 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:44,679 INFO spawned: 'crawl' with pid 24860
+2015-04-11 04:01:45,490 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:48,498 INFO spawned: 'crawl' with pid 24881
+2015-04-11 04:01:49,507 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:50,117 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:51,133 INFO spawned: 'crawl' with pid 24911
+2015-04-11 04:01:52,106 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:53,112 INFO spawned: 'crawl' with pid 24926
+2015-04-11 04:01:54,124 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:54,446 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:55,452 INFO spawned: 'crawl' with pid 24943
+2015-04-11 04:01:56,437 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:57,457 INFO spawned: 'crawl' with pid 24970
+2015-04-11 04:01:58,459 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:01:58,866 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:01:59,872 INFO spawned: 'crawl' with pid 24994
+2015-04-11 04:02:00,888 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:01,620 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:02,636 INFO spawned: 'crawl' with pid 25004
+2015-04-11 04:02:03,638 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:04,016 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:05,022 INFO spawned: 'crawl' with pid 25016
+2015-04-11 04:02:06,031 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:06,433 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:07,450 INFO spawned: 'crawl' with pid 25026
+2015-04-11 04:02:08,452 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:08,684 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:09,700 INFO spawned: 'crawl' with pid 25049
+2015-04-11 04:02:11,088 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:11,413 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:12,422 INFO spawned: 'crawl' with pid 25067
+2015-04-11 04:02:13,399 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:14,406 INFO spawned: 'crawl' with pid 25092
+2015-04-11 04:02:15,407 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:15,408 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:16,418 INFO spawned: 'crawl' with pid 25103
+2015-04-11 04:02:17,256 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:18,262 INFO spawned: 'crawl' with pid 25124
+2015-04-11 04:02:19,030 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:21,041 INFO spawned: 'crawl' with pid 25149
+2015-04-11 04:02:22,043 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:22,416 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:23,431 INFO spawned: 'crawl' with pid 25171
+2015-04-11 04:02:24,433 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:24,709 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:25,723 INFO spawned: 'crawl' with pid 25191
+2015-04-11 04:02:26,725 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:26,939 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:27,951 INFO spawned: 'crawl' with pid 25199
+2015-04-11 04:02:28,964 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:29,166 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:30,172 INFO spawned: 'crawl' with pid 25222
+2015-04-11 04:02:31,188 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:31,889 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:32,906 INFO spawned: 'crawl' with pid 25231
+2015-04-11 04:02:33,909 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:34,256 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:35,262 INFO spawned: 'crawl' with pid 25242
+2015-04-11 04:02:36,275 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:36,559 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:37,565 INFO spawned: 'crawl' with pid 25252
+2015-04-11 04:02:38,574 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:38,823 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:39,841 INFO spawned: 'crawl' with pid 25276
+2015-04-11 04:02:41,285 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:41,496 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:42,502 INFO spawned: 'crawl' with pid 25293
+2015-04-11 04:02:43,302 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:44,311 INFO spawned: 'crawl' with pid 25306
+2015-04-11 04:02:45,374 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:45,379 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:46,385 INFO spawned: 'crawl' with pid 25320
+2015-04-11 04:02:47,397 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:47,507 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:48,516 INFO spawned: 'crawl' with pid 25327
+2015-04-11 04:02:49,519 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:49,733 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:50,742 INFO spawned: 'crawl' with pid 25356
+2015-04-11 04:02:51,758 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:52,453 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:53,467 INFO spawned: 'crawl' with pid 25365
+2015-04-11 04:02:54,469 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:54,913 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:55,919 INFO spawned: 'crawl' with pid 25375
+2015-04-11 04:02:56,931 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:57,223 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:02:58,235 INFO spawned: 'crawl' with pid 25385
+2015-04-11 04:02:59,236 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:02:59,413 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:00,425 INFO spawned: 'crawl' with pid 25413
+2015-04-11 04:03:01,426 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:02,167 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:03,183 INFO spawned: 'crawl' with pid 25428
+2015-04-11 04:03:04,193 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:04,199 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:05,205 INFO spawned: 'crawl' with pid 25446
+2015-04-11 04:03:06,024 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:07,034 INFO spawned: 'crawl' with pid 25477
+2015-04-11 04:03:07,930 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:09,941 INFO spawned: 'crawl' with pid 25494
+2015-04-11 04:03:11,269 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:11,426 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:12,445 INFO spawned: 'crawl' with pid 25527
+2015-04-11 04:03:13,510 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:13,510 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:14,524 INFO spawned: 'crawl' with pid 25540
+2015-04-11 04:03:15,526 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:15,793 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:16,799 INFO spawned: 'crawl' with pid 25556
+2015-04-11 04:03:17,846 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:17,847 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:18,852 INFO spawned: 'crawl' with pid 25564
+2015-04-11 04:03:19,858 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:20,006 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:21,023 INFO spawned: 'crawl' with pid 25581
+2015-04-11 04:03:22,025 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:22,273 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:23,284 INFO spawned: 'crawl' with pid 25586
+2015-04-11 04:03:24,298 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:24,577 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:25,587 INFO spawned: 'crawl' with pid 25602
+2015-04-11 04:03:26,589 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:26,792 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:27,801 INFO spawned: 'crawl' with pid 25610
+2015-04-11 04:03:28,803 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:29,029 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:30,037 INFO spawned: 'crawl' with pid 25635
+2015-04-11 04:03:30,419 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:31,439 INFO spawned: 'crawl' with pid 25662
+2015-04-11 04:03:32,448 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:33,404 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:34,413 INFO spawned: 'crawl' with pid 25685
+2015-04-11 04:03:35,415 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:35,500 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:36,510 INFO spawned: 'crawl' with pid 25703
+2015-04-11 04:03:37,403 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:38,409 INFO spawned: 'crawl' with pid 25719
+2015-04-11 04:03:39,305 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:41,561 INFO spawned: 'crawl' with pid 25772
+2015-04-11 04:03:42,563 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:42,799 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:43,816 INFO spawned: 'crawl' with pid 25782
+2015-04-11 04:03:44,818 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:45,036 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:46,050 INFO spawned: 'crawl' with pid 25794
+2015-04-11 04:03:47,052 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:47,424 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:48,434 INFO spawned: 'crawl' with pid 25805
+2015-04-11 04:03:49,437 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:49,596 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:50,623 INFO spawned: 'crawl' with pid 25815
+2015-04-11 04:03:51,625 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:52,183 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:53,203 INFO spawned: 'crawl' with pid 25839
+2015-04-11 04:03:54,205 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:54,539 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:55,546 INFO spawned: 'crawl' with pid 25855
+2015-04-11 04:03:56,558 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:56,846 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:57,852 INFO spawned: 'crawl' with pid 25896
+2015-04-11 04:03:58,953 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:03:58,953 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:03:59,959 INFO spawned: 'crawl' with pid 25902
+2015-04-11 04:04:00,910 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:01,929 INFO spawned: 'crawl' with pid 25934
+2015-04-11 04:04:02,932 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:03,726 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:04,739 INFO spawned: 'crawl' with pid 25944
+2015-04-11 04:04:05,742 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:05,893 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:06,911 INFO spawned: 'crawl' with pid 25966
+2015-04-11 04:04:07,786 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:08,799 INFO spawned: 'crawl' with pid 25973
+2015-04-11 04:04:09,676 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:12,686 INFO spawned: 'crawl' with pid 26000
+2015-04-11 04:04:13,688 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:14,066 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:15,072 INFO spawned: 'crawl' with pid 26012
+2015-04-11 04:04:16,085 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:16,299 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:17,305 INFO spawned: 'crawl' with pid 26020
+2015-04-11 04:04:18,163 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:19,169 INFO spawned: 'crawl' with pid 26025
+2015-04-11 04:04:20,180 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:20,364 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:21,378 INFO spawned: 'crawl' with pid 26030
+2015-04-11 04:04:22,391 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:23,076 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:24,096 INFO spawned: 'crawl' with pid 26054
+2015-04-11 04:04:25,098 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:25,383 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:26,403 INFO spawned: 'crawl' with pid 26065
+2015-04-11 04:04:27,405 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:27,723 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:28,729 INFO spawned: 'crawl' with pid 26070
+2015-04-11 04:04:29,738 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:29,963 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:30,973 INFO spawned: 'crawl' with pid 26077
+2015-04-11 04:04:31,975 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:32,166 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:33,172 INFO spawned: 'crawl' with pid 26100
+2015-04-11 04:04:34,185 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:34,299 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:35,310 INFO spawned: 'crawl' with pid 26113
+2015-04-11 04:04:36,155 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:37,165 INFO spawned: 'crawl' with pid 26126
+2015-04-11 04:04:38,134 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:40,145 INFO spawned: 'crawl' with pid 26141
+2015-04-11 04:04:41,001 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:44,022 INFO spawned: 'crawl' with pid 26178
+2015-04-11 04:04:45,020 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:45,021 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:46,035 INFO spawned: 'crawl' with pid 26200
+2015-04-11 04:04:47,037 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:47,293 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:48,299 INFO spawned: 'crawl' with pid 26222
+2015-04-11 04:04:49,311 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:49,566 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:50,586 INFO spawned: 'crawl' with pid 26229
+2015-04-11 04:04:51,589 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:51,907 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:52,921 INFO spawned: 'crawl' with pid 26251
+2015-04-11 04:04:53,923 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:54,746 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:55,766 INFO spawned: 'crawl' with pid 26261
+2015-04-11 04:04:56,768 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:57,199 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:04:58,220 INFO spawned: 'crawl' with pid 26271
+2015-04-11 04:04:59,222 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:04:59,593 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:00,609 INFO spawned: 'crawl' with pid 26282
+2015-04-11 04:05:01,612 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:02,076 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:03,096 INFO spawned: 'crawl' with pid 26309
+2015-04-11 04:05:04,099 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:04,547 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:05,556 INFO spawned: 'crawl' with pid 26328
+2015-04-11 04:05:06,557 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:06,557 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:07,568 INFO spawned: 'crawl' with pid 26346
+2015-04-11 04:05:08,559 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:08,559 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:09,573 INFO spawned: 'crawl' with pid 26357
+2015-04-11 04:05:10,434 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:11,926 INFO spawned: 'crawl' with pid 26389
+2015-04-11 04:05:13,027 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:13,027 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:14,034 INFO spawned: 'crawl' with pid 26416
+2015-04-11 04:05:15,036 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:15,489 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:16,500 INFO spawned: 'crawl' with pid 26444
+2015-04-11 04:05:17,502 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:17,836 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:18,853 INFO spawned: 'crawl' with pid 26460
+2015-04-11 04:05:19,855 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:20,050 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:21,066 INFO spawned: 'crawl' with pid 26468
+2015-04-11 04:05:22,068 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:22,324 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:23,334 INFO spawned: 'crawl' with pid 26490
+2015-04-11 04:05:24,336 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:25,006 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:26,017 INFO spawned: 'crawl' with pid 26500
+2015-04-11 04:05:27,019 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:27,482 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:28,489 INFO spawned: 'crawl' with pid 26516
+2015-04-11 04:05:29,501 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:30,003 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:31,011 INFO spawned: 'crawl' with pid 26529
+2015-04-11 04:05:32,013 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:32,280 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:33,293 INFO spawned: 'crawl' with pid 26553
+2015-04-11 04:05:34,295 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:34,710 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:35,720 INFO spawned: 'crawl' with pid 26564
+2015-04-11 04:05:36,677 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:37,686 INFO spawned: 'crawl' with pid 26579
+2015-04-11 04:05:38,529 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:40,537 INFO spawned: 'crawl' with pid 26586
+2015-04-11 04:05:40,944 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:44,016 INFO spawned: 'crawl' with pid 26615
+2015-04-11 04:05:45,018 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:46,036 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:47,051 INFO spawned: 'crawl' with pid 26627
+2015-04-11 04:05:48,053 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:48,249 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:49,256 INFO spawned: 'crawl' with pid 26642
+2015-04-11 04:05:50,268 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:50,474 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:51,484 INFO spawned: 'crawl' with pid 26649
+2015-04-11 04:05:52,386 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:53,392 INFO spawned: 'crawl' with pid 26665
+2015-04-11 04:05:54,408 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:55,053 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:56,070 INFO spawned: 'crawl' with pid 26685
+2015-04-11 04:05:57,072 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:57,423 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:05:58,439 INFO spawned: 'crawl' with pid 26699
+2015-04-11 04:05:59,441 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:05:59,656 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:00,662 INFO spawned: 'crawl' with pid 26715
+2015-04-11 04:06:01,671 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:06:02,116 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:03,130 INFO spawned: 'crawl' with pid 26725
+2015-04-11 04:06:04,132 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:06:04,580 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:05,590 INFO spawned: 'crawl' with pid 26752
+2015-04-11 04:06:06,378 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:07,394 INFO spawned: 'crawl' with pid 26768
+2015-04-11 04:06:08,220 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:10,231 INFO spawned: 'crawl' with pid 26806
+2015-04-11 04:06:11,003 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:14,108 INFO spawned: 'crawl' with pid 26865
+2015-04-11 04:06:15,109 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:06:15,876 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:16,890 INFO spawned: 'crawl' with pid 26884
+2015-04-11 04:06:17,919 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:06:17,926 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:18,940 INFO spawned: 'crawl' with pid 26901
+2015-04-11 04:06:19,942 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:06:20,136 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:21,146 INFO spawned: 'crawl' with pid 26931
+2015-04-11 04:06:22,167 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:06:22,167 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:23,176 INFO spawned: 'crawl' with pid 26945
+2015-04-11 04:06:24,178 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:06:24,646 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:25,666 INFO spawned: 'crawl' with pid 26970
+2015-04-11 04:06:26,668 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:06:27,166 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:28,172 INFO spawned: 'crawl' with pid 26984
+2015-04-11 04:06:29,185 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:06:29,546 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:30,563 INFO spawned: 'crawl' with pid 26993
+2015-04-11 04:06:31,565 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:06:31,770 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:32,786 INFO spawned: 'crawl' with pid 26998
+2015-04-11 04:06:33,789 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:06:34,099 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:35,116 INFO spawned: 'crawl' with pid 27019
+2015-04-11 04:06:36,118 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 04:06:36,400 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:37,416 INFO spawned: 'crawl' with pid 27034
+2015-04-11 04:06:38,313 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:39,326 INFO spawned: 'crawl' with pid 27060
+2015-04-11 04:06:40,196 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:43,203 INFO spawned: 'crawl' with pid 27095
+2015-04-11 04:06:44,036 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:47,047 INFO spawned: 'crawl' with pid 27129
+2015-04-11 04:06:48,018 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 04:06:49,019 INFO gave up: crawl entered FATAL state, too many start retries too quickly
+2015-04-11 13:28:37,265 INFO spawned: 'crawl' with pid 27684
+2015-04-11 13:28:38,273 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:28:38,816 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:28:39,827 INFO spawned: 'crawl' with pid 27708
+2015-04-11 13:28:40,928 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:28:40,933 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:28:41,943 INFO spawned: 'crawl' with pid 27738
+2015-04-11 13:28:42,706 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:28:43,712 INFO spawned: 'crawl' with pid 27763
+2015-04-11 13:28:44,479 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:28:45,468 INFO spawned: 'crawl' with pid 27792
+2015-04-11 13:28:46,286 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:28:49,313 INFO spawned: 'crawl' with pid 27856
+2015-04-11 13:28:50,315 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:28:50,576 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:28:51,582 INFO spawned: 'crawl' with pid 27866
+2015-04-11 13:28:52,596 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:28:52,716 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:28:53,722 INFO spawned: 'crawl' with pid 27871
+2015-04-11 13:28:54,799 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:28:54,806 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:28:55,819 INFO spawned: 'crawl' with pid 27878
+2015-04-11 13:28:56,599 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:28:57,606 INFO spawned: 'crawl' with pid 27903
+2015-04-11 13:28:58,621 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:28:59,200 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:29:00,211 INFO spawned: 'crawl' with pid 27909
+2015-04-11 13:29:01,213 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:29:01,303 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:29:02,314 INFO spawned: 'crawl' with pid 27920
+2015-04-11 13:29:03,130 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:29:04,140 INFO spawned: 'crawl' with pid 27925
+2015-04-11 13:29:05,033 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:29:07,046 INFO spawned: 'crawl' with pid 27930
+2015-04-11 13:29:08,048 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:29:10,192 INFO stopped: crawl (terminated by SIGTERM)
+2015-04-11 13:29:11,205 INFO spawned: 'crawl' with pid 27964
+2015-04-11 13:29:11,993 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:29:13,003 INFO spawned: 'crawl' with pid 27969
+2015-04-11 13:29:13,910 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:29:15,920 INFO spawned: 'crawl' with pid 27975
+2015-04-11 13:29:16,730 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:29:19,926 INFO spawned: 'crawl' with pid 28002
+2015-04-11 13:29:20,833 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:29:21,834 INFO gave up: crawl entered FATAL state, too many start retries too quickly
+2015-04-11 13:30:11,647 INFO spawned: 'crawl' with pid 28391
+2015-04-11 13:30:12,698 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:30:12,700 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:30:13,713 INFO spawned: 'crawl' with pid 28408
+2015-04-11 13:30:14,659 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:30:15,674 INFO spawned: 'crawl' with pid 28439
+2015-04-11 13:30:16,554 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:30:18,565 INFO spawned: 'crawl' with pid 28483
+2015-04-11 13:30:19,583 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:30:19,880 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:30:20,890 INFO spawned: 'crawl' with pid 28498
+2015-04-11 13:30:21,918 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:30:21,926 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:30:22,943 INFO spawned: 'crawl' with pid 28516
+2015-04-11 13:30:23,945 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:30:43,343 INFO stopped: crawl (terminated by SIGTERM)
+2015-04-11 13:30:44,360 INFO spawned: 'crawl' with pid 28815
+2015-04-11 13:30:45,247 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:30:46,256 INFO spawned: 'crawl' with pid 28833
+2015-04-11 13:30:47,096 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:30:50,061 INFO spawned: 'crawl' with pid 28893
+2015-04-11 13:30:50,809 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:30:54,123 INFO spawned: 'crawl' with pid 28927
+2015-04-11 13:30:55,125 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:30:55,283 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:30:55,814 INFO spawned: 'crawl' with pid 28941
+2015-04-11 13:30:55,839 INFO waiting for putrssinqueue, getpage, crawl to die
+2015-04-11 13:30:55,841 INFO stopped: crawl (terminated by SIGTERM)
+2015-04-11 13:30:55,854 INFO stopped: getpage (terminated by SIGTERM)
+2015-04-11 13:30:55,856 INFO stopped: putrssinqueue (terminated by SIGTERM)
+2015-04-11 13:30:55,874 CRIT Supervisor running as root (no user in config file)
+2015-04-11 13:30:55,874 WARN Included extra file "/etc/supervisor/conf.d/getpage.conf" during parsing
+2015-04-11 13:30:55,874 WARN Included extra file "/etc/supervisor/conf.d/putrssinqueue.conf" during parsing
+2015-04-11 13:30:55,874 WARN Included extra file "/etc/supervisor/conf.d/crawl.conf" during parsing
+2015-04-11 13:30:55,875 INFO RPC interface 'supervisor' initialized
+2015-04-11 13:30:55,875 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2015-04-11 13:30:55,875 INFO RPC interface 'supervisor' initialized
+2015-04-11 13:30:55,875 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-04-11 13:30:55,876 INFO supervisord started with pid 939
+2015-04-11 13:30:56,885 INFO spawned: 'putrssinqueue' with pid 28960
+2015-04-11 13:30:56,901 INFO spawned: 'getpage' with pid 28961
+2015-04-11 13:30:56,933 INFO spawned: 'crawl' with pid 28962
+2015-04-11 13:30:57,935 INFO success: putrssinqueue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:30:57,935 INFO success: getpage entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:30:57,935 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:30:58,112 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:30:59,118 INFO spawned: 'crawl' with pid 29005
+2015-04-11 13:30:59,860 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:31:00,869 INFO spawned: 'crawl' with pid 29029
+2015-04-11 13:31:01,232 INFO stopped: crawl (terminated by SIGTERM)
+2015-04-11 13:31:02,250 INFO spawned: 'crawl' with pid 29050
+2015-04-11 13:31:03,053 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:31:05,065 INFO spawned: 'crawl' with pid 29094
+2015-04-11 13:31:05,846 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:31:08,855 INFO spawned: 'crawl' with pid 29155
+2015-04-11 13:31:09,857 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:31:10,443 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:31:11,449 INFO spawned: 'crawl' with pid 29184
+2015-04-11 13:31:12,203 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:31:13,211 INFO spawned: 'crawl' with pid 29218
+2015-04-11 13:31:14,213 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:31:14,369 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:31:15,386 INFO spawned: 'crawl' with pid 29233
+2015-04-11 13:31:16,388 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-11 13:31:16,697 INFO exited: crawl (exit status 1; not expected)
+2015-04-11 13:31:17,705 INFO spawned: 'crawl' with pid 29247
+2015-04-11 13:31:18,715 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-17 01:46:04,916 INFO stopped: crawl (terminated by SIGTERM)
+2015-04-17 01:46:05,933 INFO spawned: 'crawl' with pid 9363
+2015-04-17 01:46:06,935 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:11,104 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:12,388 INFO spawned: 'crawl' with pid 30493
+2015-07-15 06:03:13,394 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:13,451 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:14,455 INFO spawned: 'crawl' with pid 30517
+2015-07-15 06:03:15,457 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:15,610 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:16,614 INFO spawned: 'crawl' with pid 30542
+2015-07-15 06:03:17,618 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:18,179 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:19,184 INFO spawned: 'crawl' with pid 30570
+2015-07-15 06:03:20,193 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:20,559 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:21,564 INFO spawned: 'crawl' with pid 30581
+2015-07-15 06:03:22,569 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:23,031 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:23,036 INFO spawned: 'crawl' with pid 30584
+2015-07-15 06:03:24,034 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:24,921 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:25,926 INFO spawned: 'crawl' with pid 30603
+2015-07-15 06:03:26,928 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:27,615 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:28,624 INFO spawned: 'crawl' with pid 30612
+2015-07-15 06:03:29,629 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:30,266 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:31,273 INFO spawned: 'crawl' with pid 30620
+2015-07-15 06:03:32,276 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:32,855 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:33,860 INFO spawned: 'crawl' with pid 30628
+2015-07-15 06:03:34,861 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:35,258 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:36,262 INFO spawned: 'crawl' with pid 30653
+2015-07-15 06:03:37,264 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:37,535 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:38,539 INFO spawned: 'crawl' with pid 30662
+2015-07-15 06:03:39,541 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:39,742 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:40,746 INFO spawned: 'crawl' with pid 30666
+2015-07-15 06:03:41,748 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:42,001 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:43,006 INFO spawned: 'crawl' with pid 30677
+2015-07-15 06:03:44,008 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:44,328 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:45,333 INFO spawned: 'crawl' with pid 30688
+2015-07-15 06:03:46,334 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:46,922 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:47,927 INFO spawned: 'crawl' with pid 30708
+2015-07-15 06:03:48,939 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:49,466 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:50,471 INFO spawned: 'crawl' with pid 30713
+2015-07-15 06:03:51,476 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:52,101 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:53,107 INFO spawned: 'crawl' with pid 30720
+2015-07-15 06:03:54,119 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:54,448 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:55,452 INFO spawned: 'crawl' with pid 30731
+2015-07-15 06:03:56,454 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:57,132 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:03:58,136 INFO spawned: 'crawl' with pid 30749
+2015-07-15 06:03:59,138 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:03:59,435 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:00,440 INFO spawned: 'crawl' with pid 30766
+2015-07-15 06:04:01,456 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:01,675 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:02,682 INFO spawned: 'crawl' with pid 30777
+2015-07-15 06:04:03,684 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:03,945 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:04,950 INFO spawned: 'crawl' with pid 30795
+2015-07-15 06:04:05,951 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:06,201 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:07,206 INFO spawned: 'crawl' with pid 30823
+2015-07-15 06:04:08,208 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:08,865 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:09,870 INFO spawned: 'crawl' with pid 30839
+2015-07-15 06:04:10,871 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:11,254 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:12,260 INFO spawned: 'crawl' with pid 30849
+2015-07-15 06:04:13,261 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:13,825 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:14,830 INFO spawned: 'crawl' with pid 30853
+2015-07-15 06:04:15,831 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:16,265 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:17,269 INFO spawned: 'crawl' with pid 30873
+2015-07-15 06:04:18,271 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:18,785 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:19,790 INFO spawned: 'crawl' with pid 30880
+2015-07-15 06:04:20,791 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:21,185 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:22,190 INFO spawned: 'crawl' with pid 30918
+2015-07-15 06:04:23,203 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:23,391 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:24,398 INFO spawned: 'crawl' with pid 30936
+2015-07-15 06:04:25,440 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:25,440 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:26,444 INFO spawned: 'crawl' with pid 30952
+2015-07-15 06:04:27,447 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:27,751 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:28,755 INFO spawned: 'crawl' with pid 30974
+2015-07-15 06:04:29,757 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:30,071 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:31,076 INFO spawned: 'crawl' with pid 30979
+2015-07-15 06:04:32,089 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:32,315 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:33,320 INFO spawned: 'crawl' with pid 30983
+2015-07-15 06:04:34,329 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:34,511 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:35,516 INFO spawned: 'crawl' with pid 31005
+2015-07-15 06:04:36,518 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:37,091 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:38,096 INFO spawned: 'crawl' with pid 31029
+2015-07-15 06:04:39,098 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:39,328 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:40,332 INFO spawned: 'crawl' with pid 31038
+2015-07-15 06:04:41,290 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:42,296 INFO spawned: 'crawl' with pid 31057
+2015-07-15 06:04:43,298 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:43,528 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:44,533 INFO spawned: 'crawl' with pid 31066
+2015-07-15 06:04:45,534 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:45,878 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:46,884 INFO spawned: 'crawl' with pid 31082
+2015-07-15 06:04:47,889 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:48,346 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:49,351 INFO spawned: 'crawl' with pid 31107
+2015-07-15 06:04:50,356 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:51,056 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:52,060 INFO spawned: 'crawl' with pid 31111
+2015-07-15 06:04:53,061 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:53,448 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:54,463 INFO spawned: 'crawl' with pid 31132
+2015-07-15 06:04:55,463 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:56,232 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:56,244 INFO spawned: 'crawl' with pid 31135
+2015-07-15 06:04:57,834 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:04:58,084 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:04:59,089 INFO spawned: 'crawl' with pid 31150
+2015-07-15 06:05:00,091 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:00,831 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:01,836 INFO spawned: 'crawl' with pid 31162
+2015-07-15 06:05:02,838 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:03,332 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:04,336 INFO spawned: 'crawl' with pid 31167
+2015-07-15 06:05:05,343 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:05,648 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:06,653 INFO spawned: 'crawl' with pid 31170
+2015-07-15 06:05:07,666 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:08,388 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:09,393 INFO spawned: 'crawl' with pid 31185
+2015-07-15 06:05:10,409 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:10,851 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:11,857 INFO spawned: 'crawl' with pid 31190
+2015-07-15 06:05:12,871 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:13,571 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:14,576 INFO spawned: 'crawl' with pid 31203
+2015-07-15 06:05:15,578 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:16,125 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:17,130 INFO spawned: 'crawl' with pid 31211
+2015-07-15 06:05:18,143 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:18,779 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:19,783 INFO spawned: 'crawl' with pid 31230
+2015-07-15 06:05:20,784 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:21,331 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:22,336 INFO spawned: 'crawl' with pid 31233
+2015-07-15 06:05:23,338 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:24,215 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:25,219 INFO spawned: 'crawl' with pid 31241
+2015-07-15 06:05:26,240 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:26,241 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:27,244 INFO spawned: 'crawl' with pid 31250
+2015-07-15 06:05:28,250 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:28,462 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:29,467 INFO spawned: 'crawl' with pid 31273
+2015-07-15 06:05:30,472 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:30,747 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:31,755 INFO spawned: 'crawl' with pid 31287
+2015-07-15 06:05:32,759 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:33,131 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:34,135 INFO spawned: 'crawl' with pid 31300
+2015-07-15 06:05:35,139 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:35,396 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:36,400 INFO spawned: 'crawl' with pid 31312
+2015-07-15 06:05:37,409 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-15 06:05:37,770 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:38,777 INFO spawned: 'crawl' with pid 31325
+2015-07-15 06:05:39,224 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:40,228 INFO spawned: 'crawl' with pid 31340
+2015-07-15 06:05:40,613 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:42,619 INFO spawned: 'crawl' with pid 31343
+2015-07-15 06:05:43,402 INFO exited: crawl (exit status 1; not expected)
+2015-07-15 06:05:46,409 INFO spawned: 'crawl' with pid 31346
+2015-07-15 06:05:47,412 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-17 15:23:47,537 INFO exited: getpage (terminated by SIGKILL; not expected)
+2015-07-17 15:23:47,554 INFO spawned: 'getpage' with pid 16662
+2015-07-17 15:23:47,557 INFO exited: crawl (terminated by SIGKILL; not expected)
+2015-07-17 15:23:48,559 INFO success: getpage entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-07-17 15:23:48,563 INFO spawned: 'crawl' with pid 16667
+2015-07-17 15:23:49,564 INFO success: crawl entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-08-19 21:16:54,653 INFO exited: putrssinqueue (exit status 1; not expected)
+2015-08-19 21:16:55,678 INFO spawned: 'putrssinqueue' with pid 24492
+2015-08-19 21:16:57,357 INFO success: putrssinqueue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-09-26 14:39:25,141 INFO exited: putrssinqueue (exit status 1; not expected)
+2015-09-26 14:39:26,156 INFO spawned: 'putrssinqueue' with pid 4461
+2015-09-26 14:39:27,164 INFO success: putrssinqueue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-10-10 17:44:54,803 INFO exited: putrssinqueue (exit status 1; not expected)
+2015-10-10 17:44:55,899 INFO spawned: 'putrssinqueue' with pid 31337
+2015-10-10 17:44:57,440 INFO success: putrssinqueue entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
